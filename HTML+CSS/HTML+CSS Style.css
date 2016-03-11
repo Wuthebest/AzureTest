@@ -1,0 +1,71 @@
+h1, h2{
+    Font-family:"Roboto-Light"
+    margin-left:auto;
+    margin-right:auto;
+}
+
+p{
+    Font-family:"Roboto";
+    margin-left:auto;
+    margin-right:auto;
+
+
+}
+body{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+li{
+    float:left;
+}
+li a{
+    display:inline-block;
+    text-align:center;
+    padding:0 10px 10px 10px;
+    text-decoration:none;
+}
+
+#LatestNews{
+    background-color: #DBC9DF;
+}
+#UpcomingEvents{
+    background-color: #783A7E;
+
+}
+#maincontent{
+    float: left;
+    width: 66%;
+
+}
+aside{
+    float: right;
+    width: 33%;
+}
+footer{
+    background-color: #363636;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    height: 140px;
+}
+#ContentImage{
+    float:left;
+    padding:1%;
+    margin:1%;
+
+}
+
+#quickfix{
+    clear: both;
+}
